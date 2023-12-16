@@ -31,4 +31,7 @@ npm run dev
 npm run dev:db
 ```
 
-## Visual Studio Code
+## Work example
+<img width="1202" alt="p1" src="https://github.com/Korolya/NotionRedux/assets/153447482/0490038a-b6e6-4e35-b942-ea998b4b9ad7">
+
+

@@ -34,4 +34,4 @@ npm run dev:db
 ## Work example
 <img width="1202" alt="p1" src="https://github.com/Korolya/NotionRedux/assets/153447482/0490038a-b6e6-4e35-b942-ea998b4b9ad7">
 <img width="1202" alt="p2" src="https://github.com/Korolya/NotionRedux/assets/153447482/2902ed63-74c5-498a-bba2-dcb01cf83443">
-
+<img width="1202" alt="p3" src="https://github.com/Korolya/NotionRedux/assets/153447482/e1975fbd-5dde-46c1-9421-0de1a0b296cf">
